@@ -4,11 +4,11 @@ function tocaSomCunha() {
 
 document.querySelector('.tecla_cunha').onclick = tocaSomCunha;
 
-function tocaSomClap() {
-    document.querySelector('#som_tecla_clap').play();
+function tocaSomCaxixi() {
+    document.querySelector('#som_tecla_caxixi').play();
 }
 
-document.querySelector('.tecla_clap').onclick = tocaSomClap;
+document.querySelector('.tecla_caxixi').onclick = tocaSomCaxixi;
 
 function tocaSomTim() {
     document.querySelector('#som_tecla_tim').play();
