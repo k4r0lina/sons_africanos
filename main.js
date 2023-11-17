@@ -1,14 +1,14 @@
-function tocaSomCunha() {
-    document.querySelector('#som_tecla_cunha').play();
+function tocaSomElefante() {
+    document.querySelector('#som_tecla_elefante').play();
 }
 
-document.querySelector('.tecla_cunha').onclick = tocaSomCunha;
+document.querySelector('.tecla_elefante').onclick = tocaSomElefante;
 
-function tocaSomCaxixi() {
-    document.querySelector('#som_tecla_caxixi').play();
+function tocaSomLeopardo() {
+    document.querySelector('#som_tecla_leopardo').play();
 }
 
-document.querySelector('.tecla_caxixi').onclick = tocaSomCaxixi;
+document.querySelector('.tecla_caxixi').onclick = tocaSomLeopardo;
 
 function tocaSomTim() {
     document.querySelector('#som_tecla_tim').play();
