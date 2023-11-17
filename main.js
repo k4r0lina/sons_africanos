@@ -8,13 +8,13 @@ function tocaSomLeopardo() {
     document.querySelector('#som_tecla_leopardo').play();
 }
 
-document.querySelector('.tecla_caxixi').onclick = tocaSomLeopardo;
+document.querySelector('.tecla_leopardo').onclick = tocaSomLeopardo;
 
-function tocaSomTim() {
-    document.querySelector('#som_tecla_tim').play();
+function tocaSomRinoceronte() {
+    document.querySelector('#som_tecla_rinoceronte').play();
 }
 
-document.querySelector('.tecla_tim').onclick = tocaSomTim;
+document.querySelector('.tecla_rinoceronte').onclick = tocaSomRinoceronte;
 
 function tocaSomPuff() {
     document.querySelector('#som_tecla_puff').play();
