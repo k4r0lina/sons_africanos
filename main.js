@@ -16,38 +16,38 @@ function tocaSomRinoceronte() {
 
 document.querySelector('.tecla_rinoceronte').onclick = tocaSomRinoceronte;
 
-function tocaSomPuff() {
-    document.querySelector('#som_tecla_puff').play();
+function tocaSomLeão() {
+    document.querySelector('#som_tecla_leão').play();
 }
 
-document.querySelector('.tecla_puff').onclick = tocaSomPuff;
+document.querySelector('.tecla_leão').onclick = tocaSomLeão;
 
-function tocaSomSplash() {
-    document.querySelector('#som_tecla_splash').play();
+function tocaSomCrocodilo() {
+    document.querySelector('#som_tecla_crocodilo').play();
 }
 
-document.querySelector('.tecla_splash').onclick = tocaSomSplash;
+document.querySelector('.tecla_crocodilo').onclick = tocaSomCrocodilo;
 
-function tocaSomToim() {
-    document.querySelector('#som_tecla_toim').play();
+function tocaSomZebra() {
+    document.querySelector('#som_tecla_zebra').play();
 }
 
-document.querySelector('.tecla_toim').onclick = tocaSomToim;
+document.querySelector('.tecla_zebra').onclick = tocaSomZebra;
 
-function tocaSomPsh() {
-    document.querySelector('#som_tecla_psh').play();
+function tocaSomBufalo() {
+    document.querySelector('#som_tecla_bufalo').play();
 }
 
-document.querySelector('.tecla_psh').onclick = tocaSomPsh;
+document.querySelector('.tecla_bufalo').onclick = tocaSomBufalo;
 
-function tocaSomTic() {
-    document.querySelector('#som_tecla_tic').play();
+function tocaSomGirafa() {
+    document.querySelector('#som_tecla_girafa').play();
 }
 
-document.querySelector('.tecla_tic').onclick = tocaSomTic;
+document.querySelector('.tecla_girafa').onclick = tocaSomGirafa;
 
-function tocaSomTom() {
-    document.querySelector('#som_tecla_tom').play();
+function tocaSomHiena() {
+    document.querySelector('#som_tecla_hiena').play();
 }
 
-document.querySelector('.tecla_tom').onclick = tocaSomTom;
+document.querySelector('.tecla_hiena').onclick = tocaSomHiena;
