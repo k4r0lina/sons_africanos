@@ -5,7 +5,7 @@
     --branca: #fff;
     --luz: rgb(229, 255, 0);
     --preto: #000000;
-    
+
   }
   
   body {
@@ -19,7 +19,7 @@
   }
   
   h1 {
-    color: var(--branca);
+    color: var(--preto);
     margin-bottom: 20px;
     font-size: 2rem;
   }
